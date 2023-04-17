@@ -1,4 +1,4 @@
-<h1 style="color: #5e9ca0;"># All data related to all the topics we have to mention here.</h1>
+<h1 style="color: #5e9ca0;">All data related to all the topics we have to mention here.</h1>
 <h2 style="color: #2e6c80;">Branches Information:</h2>
 <ul>
 <li>Master- live branch</li>
